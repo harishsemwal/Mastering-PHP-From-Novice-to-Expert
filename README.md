@@ -1,6 +1,6 @@
 # PHP 
 
-I Learn complete PHP, Now i am feeling amazing because i dive into the backend technology of web development.
+I learned complete PHP. Now I feel amazing because I have delved into the backend technology of web development.
 
 This repository contains the code and concepts I learned during a comprehensive journey into PHP programming. Below are the topics covered in this tutorial, along with brief descriptions and links to specific code examples.
 
