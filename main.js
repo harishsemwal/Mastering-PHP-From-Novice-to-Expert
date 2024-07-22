@@ -1,4 +1,3 @@
-// Where we can embedded js instead of php
 function hackWebsite() {
     var vulnerability = true;
 
